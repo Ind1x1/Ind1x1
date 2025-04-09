@@ -19,4 +19,5 @@ Shanghai, China.
 - Fault tolerance
 - Multimodal Training system
 
-![Vila R99 GIF](images/vila-r99.gif)
+ <img align="right" alt="GIF" src="./images/vila-r99.gif" width="430" height="100%" />
+
