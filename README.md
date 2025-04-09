@@ -10,13 +10,13 @@ Fudan University
 
 Shanghai, China.
 
+[![](https://activity-graph.herokuapp.com/graph?username=Ind1x1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ind1x1's github stats](https://github-readme-stats.vercel.app/api?username=Ind1x1&show_icons=true&theme=vue)
+
 ## Research Interests
 
 - Large Language Models
 - Fault tolerance
 - Multimodal Training system
 
-[![](https://activity-graph.herokuapp.com/graph?username=Ind1x1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Ind1x1's github stats](https://github-readme-stats.vercel.app/api?username=Ind1x1&show_icons=true&theme=vue)
-
-![Vila R99 GIF](https://media.tenor.com/images/2265939147565929775.gif)
+![Vila R99 GIF](images/vila-r99.gif)
