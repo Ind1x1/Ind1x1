@@ -11,7 +11,7 @@ Fudan University
 
 Shanghai, China.
 
-<img align="right" alt="GIF" src="./images/tom.gif" width="300" height="80%" />
+<img align="right" alt="GIF" src="./images/tom.gif" width="300" height="100%" />
 
 [![](https://activity-graph.herokuapp.com/graph?username=Ind1x1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Ind1x1's github stats](https://github-readme-stats.vercel.app/api?username=Ind1x1&show_icons=true&theme=vue)
