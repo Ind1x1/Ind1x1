@@ -5,16 +5,12 @@
 
 ### *Master's Degree Student*
 
-Fudan University
-
-220 Handan Road, Shanghai
-
-Shanghai, China.
+Fudan University, Shanghai, China.
 
 <img align="right" alt="GIF" src="./images/tom.gif" width="300" height="100%" />
 
-[![](https://activity-graph.herokuapp.com/graph?username=Ind1x1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Ind1x1's github stats](https://github-readme-stats.vercel.app/api?username=Ind1x1&show_icons=true&theme=vue)
+<!-- [![](https://activity-graph.herokuapp.com/graph?username=Ind1x1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ind1x1's github stats](https://github-readme-stats.vercel.app/api?username=Ind1x1&show_icons=true&theme=vue) -->
 
 
 <!-- <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="drawing" width="150"/> -->
