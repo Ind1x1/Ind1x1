@@ -22,9 +22,9 @@ Fudan University, Shanghai, China.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ind1x1/Ind1x1/output/github-contribution-grid-snake.svg">
 </picture>
 
-<table>
-  <tr>
-    <td>
+<div style="display: flex; align-items: flex-start;">
+
+<div style="flex: 1;">
 
 <h3>Research Interests</h3>
 
@@ -34,10 +34,8 @@ Fudan University, Shanghai, China.
   <li>Multimodal Training system</li>
 </ul>
 
-    </td>
-    <td>
-      <img src="./images/tom.gif" width="300">
-    </td>
-  </tr>
-</table>
+</div>
 
+<img src="./images/tom.gif" width="300" style="margin-left: 20px;"/>
+
+</div>
