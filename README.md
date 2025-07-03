@@ -22,20 +22,8 @@ Fudan University, Shanghai, China.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ind1x1/Ind1x1/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div style="display: flex; align-items: flex-start;">
+## Research Interests
 
-<div style="flex: 1;">
+- Sleep
 
-<h3>Research Interests</h3>
 
-<ul>
-  <li>Large Language Models</li>
-  <li>Fault tolerance</li>
-  <li>Multimodal Training system</li>
-</ul>
-
-</div>
-
-<img src="./images/tom.gif" width="300" style="margin-left: 20px;"/>
-
-</div>
