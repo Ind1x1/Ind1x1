@@ -22,11 +22,19 @@ Fudan University, Shanghai, China.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ind1x1/Ind1x1/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1;">
+  
 ## Research Interests
 
-- Large Language Models
-- Fault tolerance
-- Multimodal Training system
+- Large Language Models  
+- Fault tolerance  
+- Multimodal Training system  
 
-<img align="right" alt="GIF" src="./images/tom.gif" width="300" height="100%" />
+</div>
+
+<img src="./images/tom.gif" alt="GIF" width="300" height="100%" />
+
+</div>
 
