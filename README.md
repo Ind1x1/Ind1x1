@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Ind1x1?theme=miku">
+<img align="right" src="https://count.getloli.com/get/@:Ind1x1?theme=rule34">
 
  
 # Leyi Ye
