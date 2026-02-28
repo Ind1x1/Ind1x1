@@ -6,6 +6,7 @@
 ### *Master's Degree Student*
 
 Fudan University, Shanghai, China.
+Tencent HY, Super OnSea, China
 
 
 
