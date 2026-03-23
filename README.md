@@ -5,7 +5,7 @@
 
 Fudan University, Shanghai, China.
 
-Tencent HY, Super OnSea, China
+Tencent HY, Super OnSea, China.
 
 
 <!-- [![](https://activity-graph.herokuapp.com/graph?username=Ind1x1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
